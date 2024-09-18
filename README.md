@@ -62,7 +62,9 @@ Um atleta só pode representar um país em cada modalidade.
 
 Diagrama de caso de uso: 
 
-<img width="500px" height="500px" src="![Captura de tela 2024-09-18 161204](https://github.com/user-attachments/assets/da6dd2ba-cc12-4b2b-b515-19c91098bf97)">
+![Captura de tela 2024-09-18 161204](https://github.com/user-attachments/assets/050df8df-584d-4026-971f-4ef2406b4ff9)
+
+
 
  
 
