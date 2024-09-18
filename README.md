@@ -58,5 +58,10 @@ O sistema deve permitir a inscrição de atletas de diferentes países.
 Cada atleta deve poder participar de várias competições.
 Um atleta só pode representar um país em cada modalidade.
 
+**Diagramas:**
+
+Diagrama de caso de uso: 
+![Captura de tela 2024-09-18 161204](https://github.com/user-attachments/assets/da6dd2ba-cc12-4b2b-b515-19c91098bf97)
+<img width="500px" height="500px">
  
 
