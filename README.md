@@ -62,22 +62,31 @@ Um atleta só pode representar um país em cada modalidade.
 
 Diagrama de caso de uso: 
 
+
 <img width="500px" height="500px" src="imgs/diagrama-de-caso-de-uso.png"/>
 
 
 Diagrama de Classes:
+
+
 <img width="500px" height="500px" src="imgs/Diagrama-de-classes.png"/>
 
 
 Diagrama de Pacotes: 
+
+
 <img width="500px" height="500px" src="imgs/Diagrama-pacotes.png"/>
 
 
 Diagrama de Componentes: 
+
+
 <img width="500px" height="500px" src="imgs/Captura de tela 2024-09-18 181507.png"/>
 
 
 Diagrama de implantação:
+
+
 <img width="500px" height="500px" src="imgs/diagrama-implantação.png"/>
 
 
